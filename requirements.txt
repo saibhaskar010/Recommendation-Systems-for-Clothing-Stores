@@ -1,0 +1,9 @@
+sklearn
+SQLAlchemy
+pandas
+seaborn
+matplotlib
+numpy
+pymysql
+warnings
+datetime
